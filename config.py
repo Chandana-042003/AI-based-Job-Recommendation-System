@@ -1,0 +1,1 @@
+MONGO_URI = "mongodb://localhost:27017/" #replace with your connection string 
